@@ -17,8 +17,9 @@ class App extends Component {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+      resumeData: {},
     };
+    
 
     ReactGA.initialize('UA-110570651-1');
     ReactGA.pageview(window.location.pathname);
@@ -27,7 +28,7 @@ class App extends Component {
 
   getData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:process.env.PUBLIC_URL + '/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
