@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/williamloe/Portfolio.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/williamloe/Portfolio.git/static/js/main.663fda79.chunk.js",
+    "main.js.map": "/williamloe/Portfolio.git/static/js/main.663fda79.chunk.js.map",
+    "runtime-main.js": "/williamloe/Portfolio.git/static/js/runtime-main.eb65c2c4.js",
+    "runtime-main.js.map": "/williamloe/Portfolio.git/static/js/runtime-main.eb65c2c4.js.map",
+    "static/js/2.e071bb75.chunk.js": "/williamloe/Portfolio.git/static/js/2.e071bb75.chunk.js",
+    "static/js/2.e071bb75.chunk.js.map": "/williamloe/Portfolio.git/static/js/2.e071bb75.chunk.js.map",
+    "static/js/3.e511dfbf.chunk.js": "/williamloe/Portfolio.git/static/js/3.e511dfbf.chunk.js",
+    "static/js/3.e511dfbf.chunk.js.map": "/williamloe/Portfolio.git/static/js/3.e511dfbf.chunk.js.map",
+    "index.html": "/williamloe/Portfolio.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/williamloe/Portfolio.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/williamloe/Portfolio.git/static/js/2.e071bb75.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/williamloe/Portfolio.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb65c2c4.js",
+    "static/js/2.e071bb75.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.663fda79.chunk.js"
+  ]
+}
